@@ -3,3 +3,5 @@ Cat
 Fish
 Bird
 Hamster
+Dolphin
+Shark
